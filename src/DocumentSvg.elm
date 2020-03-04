@@ -7,12 +7,12 @@ import Svg.Attributes exposing (..)
 
 
 strokeColor =
-    -- "url(#grad1)"
-    "black"
+    --"url(#grad1)"
+    "red"
 
 
 pageTextColor =
-    "black"
+    "red"
 
 
 fillColor =
@@ -25,15 +25,15 @@ fillColor =
 
 fillGradient =
     gradient
-        (Color.rgb255 5 117 230)
-        (Color.rgb255 0 242 96)
+        (Color.rgb255 255 242 96)
+        (Color.rgb255 252 0 255)
 
 
 
--- (Color.rgb255 252 0 255)
--- (Color.rgb255 0 219 222)
--- (Color.rgb255 255 93 194)
--- (Color.rgb255 255 150 250)
+--      (Color.rgb255 5 117 230)
+--(Color.rgb255 0 219 222)
+--    (Color.rgb255 255 93 194)
+--  (Color.rgb255 255 150 250)
 
 
 gradient color1 color2 =

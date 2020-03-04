@@ -9,4 +9,4 @@ Kotisivu aihio.
 
 - Tai ota yhteyttä: [s-postilla](mailto:me@joonastuomi.fi)
 - [tuomentweet](https://twitter.com/tuomentweet)
-- [listed](http://listed.to/jwnz)
+- [listed](http://listed.to/@jwnz)
