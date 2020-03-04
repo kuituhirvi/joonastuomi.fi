@@ -3,6 +3,8 @@ title: Joonaksen sivut
 type: page
 ---
 
+# Mukava kun löysit perille
+
 Kotisivu aihio.
 
 ## Tule käymään uudestaan
