@@ -12,3 +12,4 @@ Kotisivu aihio.
 - Tai ota yhteyttä: [s-postilla](mailto:me@joonastuomi.fi)
 - [tuomentweet](https://twitter.com/tuomentweet)
 - [listed](http://listed.to/@jwnz)
+- [keybase](https://keybase.io/jwnz) 'löytyy myös julkinen avaimeni'
