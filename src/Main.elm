@@ -39,10 +39,10 @@ manifest =
     , orientation = Manifest.Portrait
     , description = "joonastuomi.fi - kotisivusto."
     , iarcRatingId = Nothing
-    , name = "joonastuomi.fi"
+    , name = "Kotisivusto"
     , themeColor = Just Color.grey
     , startUrl = pages.index
-    , shortName = Just "joonastuomi.fi"
+    , shortName = Just "Kotisivusto"
     , sourceIcon = images.iconPng
     }
 
@@ -283,7 +283,7 @@ header currentPath =
                 , label =
                     Element.row [ Font.size 30, Element.spacing 16 ]
                         [ DocumentSvg.view
-                        , Element.text "joonastuomi.fi"
+                        , Element.text "Kotisivusto"
                         ]
                 }
             , Element.row [ Element.spacing 15 ]
@@ -338,7 +338,7 @@ head metadata =
                 Metadata.Page meta ->
                     Seo.summaryLarge
                         { canonicalUrlOverride = Nothing
-                        , siteName = "joonastuomi.fi"
+                        , siteName = "Kotisivusto"
                         , image =
                             { url = images.iconPng
                             , alt = "Site of Joonas logo"
@@ -391,7 +391,7 @@ head metadata =
                     in
                     Seo.summary
                         { canonicalUrlOverride = Nothing
-                        , siteName = "joonastuomi.fi"
+                        , siteName = "Kotisivusto"
                         , image =
                             { url = meta.avatar
                             , alt = meta.name ++ "'s Site of Joonas articles."
