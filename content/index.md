@@ -14,15 +14,6 @@ Kotisivu aihio.
 - [listed](http://listed.to/@jwnz)
 - [keybase](https://keybase.io/jwnz) *löytyy myös julkinen avaimeni*
 
-<footer>
-	Joonas Tuomi, 
-	<a href="tel:+358449117021" class="Blondie">
-	    Call me, call me any, anytime
-	      <b>Call me (call me) I'll arrive</b>
-	        When you're ready we can share the wine!
-	</a><br>
-	<p class="posti-osoite">
-		Maanmittarintie 1,<br>
-		00680, Itä-Pakila, Helsinki, Uusimaa,<br> Suomi.
-		</p>
-	</footer>
+Joonas Tuomi, [Call me, call me any, anytime	**Call me (call me) I'll arrive** When you're ready we can share the wine!](tel:+358449117021)   
+<address>Maanmittarintie 1,   
+00680, Itä-Pakila, Helsinki, Uusimaa, Suomi.</address>
